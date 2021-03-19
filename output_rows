@@ -1,5 +1,5 @@
 R1 D1,D2
-R2 F15,F16,F17,F18,F19,F20
+R2 F17,F18,F19,F20
 R3 H1,H2,H3,H4
 R4 J18,J19,J20
 R5 B1,B2
@@ -9,7 +9,7 @@ R8 H19,H20
 R9 J1,J2
 R10 B20
 R11 D6,D7,D8,D9
-R12 F9,F10,F11
+R12 F11,F12,F13
 R13 H8,H9
 R14 J14
 R15 B6
@@ -17,5 +17,5 @@ R16 H13,H14,H15
 R17 J6,J7,J8,J9,J10
 R18 B11,B12,B13,B14,B15,B16
 Number of seats requested are not available.
-Number of seats requested are not available.
+R20 F7
 Number of seats requested are not available.
